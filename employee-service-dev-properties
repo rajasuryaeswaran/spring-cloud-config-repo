@@ -1,0 +1,4 @@
+employee.message=Employee service running in Development
+spring.datasource.url=jdbc:mysql://localhost:3306/newdb
+spring.datasource.username=root
+spring.datasource.password=Rajasurya17#
